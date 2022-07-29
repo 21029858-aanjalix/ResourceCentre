@@ -28,7 +28,7 @@ public class ResourceCentre {
 			if (option == OPTION_VIEW) {
 				// View all items
 				ResourceCentre.viewAllCamcorder(camcorderList);
-				ResourceCentre.viewAllChromebook(chromebookList);
+				ResourceCentre.viewAllChromebook(chromebookList);  //view items
 
 			} else if (option == OPTION_ADD) {
 				// Add a new item
